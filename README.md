@@ -1,2 +1,2 @@
 
-Poll SCM test
+Poll SCM
